@@ -40,10 +40,10 @@
          <item cert="high" xml:space="default"><eventName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default">In small microwave safe bowl, melt butter and chocolate in microwave (or over double boiler). </eventName></item><item cert="high" xml:space="default">Allow to cool slightly.</item>
          <item cert="high" xml:space="default"><eventName>Measure flour, salt, and baking powder into another small bowl.</eventName></item>
          <item cert="high" xml:space="default"><eventName>In larger mixing bowl, beat eggs thoroughly.</eventName></item> <item cert="high" xml:space="default">A whisk is fine.</item>
-         <item cert="high" xml:space="default">Gradually add sugar.</item>
+         <item cert="high" xml:space="default"><eventName>Gradually add sugar.</eventName></item>
          <item cert="high" xml:space="default">Blend chocolate mixture and vanilla into egg/sugar mixture.</item>
-         <item cert="high" xml:space="default">Add flour mixture, stir well.</item>
-         <item cert="high" xml:space="default">Spread in the greased 9×13″ pan and bake for 25-30 minutes. </item>         <item cert="high" xml:space="default">Cool and cut into 24 squares.</item></list>
+         <item cert="high" xml:space="default"><eventName>Add flour mixture, stir well.</eventName></item>
+         <item cert="high" xml:space="default"><eventName>Spread in the greased 9×13″ pan and bake for 25-30 minutes. </eventName></item>         <item cert="high" xml:space="default"><eventName>Cool and cut into 24 squares.</eventName></item></list>
          </div>
       </body>
   </text>
